@@ -14,7 +14,7 @@ export default function Home() {
 
       <div className="flex flex-grow">
       
-        {/* Sidebar with dynamic width based on content */}
+       
         <div className="w-auto sm:w-auto md:w-auto h-full p-4 bg-white border-r border-gray-300 flex flex-col justify-start">
           <button className="flex items-center p-8">
             <Image src={dash} alt="Dashboard" width={15} height={15} />
